@@ -13,6 +13,6 @@
         "phpunit/PHPUnit": "3.7.*"
     },
     "autoload": {
-        "psr-4": {"PureLib\\":"vendor/purelib"}
+        "psr-4": {"PureLib\\Base\\":""}
     }
 }

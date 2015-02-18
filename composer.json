@@ -6,7 +6,8 @@
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.4",
-        "zendframework/zend-stdlib": "2.3.*@dev"
+        "zendframework/zend-stdlib": "2.3.*@dev",
+        "zendframework/zend-servicemanager": "2.3.*@dev"
     },
     "require-dev": {
         "behat/behat": "3.0.*@dev",
